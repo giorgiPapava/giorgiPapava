@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Giorgi and I'm a Frontend Developer, from Georgia</h2>
+<h2 align="center">🔍 Passionate Self-Learner | 👨‍💻 JavaScript Developer | 🇬🇪 Georgia</h2>
 
 ###
 
